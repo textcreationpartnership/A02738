@@ -37,22 +37,30 @@ This keyboarded and encoded edition of the
 
 #####Body#####
 
-1. Baleus prolocutor.
+1. A Comedye concernynge thre lawes, Compyled by Iohan Bale.
 
-1. Actus Primus.
+    _ Baleus prolocutor.
 
-1. Incipit Actus secundus.
+    _ Actus Primus.
 
-1. Incipit Actus tertium.
+    _ Incipit Actus secundus.
 
-1. Incipit Actus quartus.
+    _ Incipit Actus tertium.
 
-1. Incipit Actus quintus.
+    _ Incipit Actus quartus.
+
+    _ Incipit Actus quintus.
 
 #####Back#####
 
-1. The aparellynge of the six vyces, of frutes of Infydelyte.
+1. Into fyue personages maye the partes of thys Comedy be deuyded.
 
+    _ The aparellynge of the six vyces, of frutes of Infydelyte.
+
+1. A songe vpon Benedictus Compyled by Iohan Bale.
+
+1. The commaundementes breuelye.
+Thus endeth thys Comedy concernynge thre lawes, of Nature, Moses, and Christ, corrupted by the Sodom
 **Types of content**
 
   * There are 1924 **verse** lines!
